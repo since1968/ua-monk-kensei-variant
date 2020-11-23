@@ -1,4 +1,4 @@
-# ua-fighter-hoplite
+# ua-mond-kensei-variant
 
 For use with Homebrewery Naturalcrit. 
 
